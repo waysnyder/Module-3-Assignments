@@ -1,5 +1,0 @@
-jupyterlab==4.2.1
-matplotlib==3.9.0
-pandas==2.2.2
-scikit-learn==1.5.1
-kagglehub==0.3.6

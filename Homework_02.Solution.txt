@@ -1,0 +1,36 @@
+Solution Sheet for Homework_02.ipynb
+------------------------------------
+
+Each of the 16 problems is worth 3 points, with 2 points free.
+
+a1a:	Any answer acceptable.
+
+a1b: 	36.4856  <=  45.607  <=  54.7284
+
+a2a: 	4.2286  <=  5.2857  <=  6.3428
+
+a2b: 	36.57  <=  45.7125  <=  54.855
+
+a2c: 	349.5304  <=  436.913  <=  524.2956
+
+a2d: 	0.6458  <=  0.8072  <=  0.9686
+
+a3a: 	Any answer acceptable.
+
+a3b: 	Any answer acceptable.
+
+a3c1: 	a3c1 == 2
+
+a3c2: 	a3c2 == 1
+
+a3c3: 	a3c3 == 4
+
+a4a: 	Any answer acceptable.
+
+a4b: 	Any answer acceptable.
+
+a4c: 	2294.8398  <=  2868.5497  <=  3442.2596
+
+a4d: 	2320.1549  <=  2900.1936  <=  3480.2323
+
+a4e: 	a4e == 3

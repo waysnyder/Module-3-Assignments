@@ -1,7 +1,7 @@
 Solution Sheet for Homework_03.ipynb
 ------------------------------------
 
-Each of the 8 problems is worth 6 points, with 2 points free.
+Each of the 9 problems is worth 5 points, with 5 points free.
 
 a1a:	126  <=  140  <=  154
 
@@ -9,7 +9,9 @@ a1b: 	69.9126  <=  77.6807  <=  85.4488
 
 a1c: 	a1c == 2
 
-a1d: 	a1d == 3
+a1d: 	a1d == 4
+
+a1e: 	a1e == 3
 
 a2a: 	352.8  <=  392  <=  431.2
 

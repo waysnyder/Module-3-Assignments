@@ -1,0 +1,24 @@
+Solution Sheet for Homework_06.ipynb
+------------------------------------
+
+Each of the 9 problems is worth 5 points, with 5 points free.
+
+a1a:	24195.0465  <=  25468.47  <=  26741.8935
+
+a1b: 	6.65  <=  7  <=  7.35
+
+a1c: 	90.25  <=  95  <=  99.75
+
+a1d: 	Any answer acceptable.
+
+a2:	a2 == None
+
+a3: 	20.9  <=  22  <=  23.1
+
+a4a: 	Any answer acceptable.
+
+a4b: 	21866.1785  <=  23017.03  <=  24167.8815
+
+a4c: 	21708.241  <=  22850.78  <=  23993.319
+
+

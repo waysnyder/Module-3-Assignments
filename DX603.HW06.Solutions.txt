@@ -1,0 +1,17 @@
+DX 603 – Spring 2026 – Homework 06 Solutions
+
+Solution Sheet — Accepted Answer Ranges
+
+Problem  Accepted Range                                                                                                                                                                                            
+
+a1a      20374.776 to 30562.164                                                                                                                                                         
+a1b      5 to 10                                                                                                                                                                          
+a1c      30 to 140                                                                                                                                                                        
+a1d      Any pair of values not equal to (0,0) is acceptable                                                                      
+a2       None or 5 to 74                                                                                                                                            
+a3       2 to 45                                                                                                                                                                          
+a4a      Any 4-tuple with None or integers, and not equal to (0,0,0,0)
+a4b      18413.624 to 27620.436                                                                                                                                                         
+a4c      18280.624 to 27420.936                                                                                                                                                          
+
+

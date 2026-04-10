@@ -1,0 +1,16 @@
+DX603 – Spring 2026 – Homework 07 Solutions
+
+Solution Sheet — Accepted Answer Ranges
+
+Problem  Accepted Range  Notes                           
+-------  --------------  --------------------------------
+a1       11200 to 16800  Any value within ±20% of 14000
+a2       11200 to 16800  Any value within ±20% of 14000
+a3a      1 to 3          Must be an integer in this range
+a3b      11200 to 16800  Any value within ±20% of 14000
+
+
+Interpretation for Students
+- Integer answers must match exactly unless a range or set of values is shown.
+- Decimal answers may receive full credit if they fall within the stated acceptable range.
+- If a row says TBA, consult the autograder comments or posted solution notes for that item.

@@ -1,0 +1,19 @@
+DX603 – Spring 2026 – Homework 08 Solutions
+
+Solution Sheet — Accepted Answer Ranges
+
+Problem  Accepted Range    Notes                        
+-------  ----------------  -----------------------------
+a1       0.6745 to 0.7455  Any value within ±5% of 0.71
+a2       0.6745 to 0.7455  Any value within ±5% of 0.71
+a3       0.6745 to 0.7455  Any value within ±5% of 0.71
+a4a      0.756 to 0.924    Any value within ±10% of 0.84
+a4b      0.693 to 0.847    Any value within ±10% of 0.77
+a4c      0.756 to 0.924    Any value within ±10% of 0.84
+a5       2                 Must equal exactly
+
+
+Interpretation for Students
+- Integer answers must match exactly unless a range or set of values is shown.
+- Decimal answers may receive full credit if they fall within the stated acceptable range.
+- If a row says TBA, consult the autograder comments or posted solution notes for that item.
